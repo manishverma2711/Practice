@@ -4,18 +4,17 @@ public class factorial {
 
 	public static void main(String[] args) {
 		
-		int num =2;
-		
-		double factorial =1;
-		
-		for( int i=1;i<=num;i++)
-		{
-			factorial = factorial * i;
-		}
-		
-		System.out.println( factorial);
-		
+		  int i,fact=1;  
+		  
+		  int number=5;  
+		  
+		  for(i=1;i<=number;i++)
+		  {    
+		      fact=fact*i;    
+		  }    
 	
-		
-	}
+		  System.out.println("Factorial of "+number+" is: "+fact);    
+
+	} 
+
 }

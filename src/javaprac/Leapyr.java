@@ -19,23 +19,19 @@ public class Leapyr {
 		          leap = true;
 		        else
 		          leap = false;
-		      }
-		      
+		      }		      
 		      // if the year is not century
 		      else
 		        leap = true;
-		    }
-		    
+		    }    
 		    else
 		      leap = false;
-
+		    
 		    if (leap)
 		      System.out.println(year + " is a leap year.");
 		    else
 		      System.out.println(year + " is not a leap year.");
 		  }
-		
-		
-		
+
 	}
 

@@ -9,8 +9,6 @@ public class loop {
 			
 			System.out.println("The value of a is " + a);
 			
-		}
-		
-		
+		}		
 	}
 }

@@ -19,7 +19,5 @@ public static void main(String[] args) {
 			
 			System.out.println("Its odd number: " + i);
 		}
-		
-		
 	}
 }

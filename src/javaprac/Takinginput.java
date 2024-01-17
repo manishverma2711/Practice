@@ -13,9 +13,7 @@ public class Takinginput {
 	   int show=take.nextInt();
 		
 		System.out.println("The value taken from user is: " + show);
-		
-		
-		
+			
 	}
 
 }

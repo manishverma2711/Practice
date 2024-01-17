@@ -1,8 +1,8 @@
 package javaprac;
 
-public class Comparestringandfindingmatchingstr {
+public class leftsidetrinagle {
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		String Inputstr  ="Tester is on work";
 		
@@ -28,10 +28,10 @@ public static void main(String[] args) {
 		}
 		
 		System.out.println("The value same input string is " + c);
-			
+		
+		
+		
 		
 	}
-	
-	
 	
 }

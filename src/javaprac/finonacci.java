@@ -18,9 +18,6 @@ public class finonacci {
 			b=c;
 			
 			System.out.print(c+" ");
-
-		}
-			
+		}		
 	}
-	
 }
