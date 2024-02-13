@@ -6,7 +6,7 @@ public class Inputfromuserpalindrome {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Enter a number: ");
+		System.out.println("Plz enter a number: ");
 		
 		 Scanner sc = new Scanner (System.in);
 		   
