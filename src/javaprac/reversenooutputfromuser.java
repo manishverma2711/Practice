@@ -6,11 +6,11 @@ public class reversenooutputfromuser {
 
 	public static void main(String[] args) {
 	
-		 String str= "Geeks", nstr="";
+		 String str= "Manish", nstr="";
 	        char ch;
 	       
 	      System.out.print("Original word: ");
-	      System.out.println("Geeks"); 
+	      System.out.println("Manish"); 
 	       
 	      for (int i=0; i<str.length(); i++)
 	      {
